@@ -1,0 +1,10 @@
+C:\Users\TCHIMOU\Desktop\MIAGE-GI\LICENCE 2\SEMESTRE_2\ProgrammationCshap\ProjetCshap\ProjetCshap\bin\Debug\ProjetCshap.exe.config
+C:\Users\TCHIMOU\Desktop\MIAGE-GI\LICENCE 2\SEMESTRE_2\ProgrammationCshap\ProjetCshap\ProjetCshap\bin\Debug\ProjetCshap.exe
+C:\Users\TCHIMOU\Desktop\MIAGE-GI\LICENCE 2\SEMESTRE_2\ProgrammationCshap\ProjetCshap\ProjetCshap\bin\Debug\ProjetCshap.pdb
+C:\Users\TCHIMOU\Desktop\MIAGE-GI\LICENCE 2\SEMESTRE_2\ProgrammationCshap\ProjetCshap\ProjetCshap\obj\Debug\ProjetCshap.csprojAssemblyReference.cache
+C:\Users\TCHIMOU\Desktop\MIAGE-GI\LICENCE 2\SEMESTRE_2\ProgrammationCshap\ProjetCshap\ProjetCshap\obj\Debug\ProjetCshap.Form1.resources
+C:\Users\TCHIMOU\Desktop\MIAGE-GI\LICENCE 2\SEMESTRE_2\ProgrammationCshap\ProjetCshap\ProjetCshap\obj\Debug\ProjetCshap.Properties.Resources.resources
+C:\Users\TCHIMOU\Desktop\MIAGE-GI\LICENCE 2\SEMESTRE_2\ProgrammationCshap\ProjetCshap\ProjetCshap\obj\Debug\ProjetCshap.csproj.GenerateResource.cache
+C:\Users\TCHIMOU\Desktop\MIAGE-GI\LICENCE 2\SEMESTRE_2\ProgrammationCshap\ProjetCshap\ProjetCshap\obj\Debug\ProjetCshap.csproj.CoreCompileInputs.cache
+C:\Users\TCHIMOU\Desktop\MIAGE-GI\LICENCE 2\SEMESTRE_2\ProgrammationCshap\ProjetCshap\ProjetCshap\obj\Debug\ProjetCshap.exe
+C:\Users\TCHIMOU\Desktop\MIAGE-GI\LICENCE 2\SEMESTRE_2\ProgrammationCshap\ProjetCshap\ProjetCshap\obj\Debug\ProjetCshap.pdb
